@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="src/assets/logo-horizontal-color.png" alt="PTZVC logo" width="480">
+</p>
+
 # PTZVC — PTZ Virtual Controller
 
 A Windows desktop remote for PTZ cameras, styled like a physical PTZ remote (black/grey).
